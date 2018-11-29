@@ -1,0 +1,12 @@
+{
+  "name": "material-react",
+  "version": "1.0.0",
+  "description": "Doing some react",
+  "main": "index.js",
+  "repository": "https://github.com/peraltawave/material-react.git",
+  "author": "Miguel Peralta <peraltawave@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mdbreact": "^4.8.4"
+  }
+}
